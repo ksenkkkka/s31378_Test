@@ -1,3 +1,4 @@
+using APBD_TEST_TEMPLATE.Repositories;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
